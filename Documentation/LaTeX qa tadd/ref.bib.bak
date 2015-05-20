@@ -1,0 +1,2073 @@
+% This file was created with JabRef 2.9.2.
+% Encoding: Cp1252
+
+@ARTICLE{AR12,
+  author = {Achanta, R. and Shaji, A. and Smith, K. and Lucchi, A. and Fua, P.
+	and Susstrunk, S.},
+  title = {{SLIC} Superpixels Compared to State-of-the-Art Superpixel Methods},
+  journal = {IEEE Transactions on Pattern Analysis and Machine Intelligence},
+  year = {2012},
+  volume = {34},
+  pages = {2274-2281},
+  number = {11},
+  owner = {computing},
+  timestamp = {2013.08.13}
+}
+
+@ARTICLE{MA03,
+  author = {Alexa, M. and Behr, J. and Cohen-Or, D. and Fleishman, S. and Levin,
+	D. and Silva, C.T.},
+  title = {Computing and rendering point set surfaces},
+  journal = {IEEE Transactions on Visualization and Computer Graphics},
+  year = {2003},
+  volume = {9},
+  pages = {3-15},
+  number = {1},
+  issn = {1077-2626},
+  publisher = {IEEE Computer Society}
+}
+
+@INPROCEEDINGS{AB10,
+  author = {Alexe, B. and Deselaers, T. and Ferrari, V.},
+  title = {What is an object?},
+  booktitle = {Proc. CVPR},
+  year = {2010},
+  pages = {73--80}
+}
+
+@CONFERENCE{AN01,
+  author = {Amenta, N. and Choi, S. and Kolluri, R.K.},
+  title = {The power crust},
+  booktitle = {Proceedings of the sixth ACM symposium on Solid modeling and applications},
+  year = {2001},
+  pages = {249--266},
+  organization = {ACM}
+}
+
+@INPROCEEDINGS{NA01,
+  author = {N. Amenta and S. Choi and R. Kolluri},
+  title = {The power crust},
+  booktitle = {Proc. the Sixth ACM Symposium on Solid Modeling},
+  year = {2001},
+  pages = {249-260}
+}
+
+@INPROCEEDINGS{NA02,
+  author = {Aspert, N. and Santa-Cruz, D. and Ebrahimi, T.},
+  title = {Mesh: Measuring errors between surfaces using the hausdorff distance},
+  booktitle = {Proc. ICME},
+  year = {2002}
+}
+
+@ARTICLE{AF54,
+  author = {Attneave, F.},
+  title = {Some informational aspects of visual perception.},
+  journal = {Psychological review},
+  year = {1954},
+  volume = {61},
+  pages = {183},
+  number = {3},
+  publisher = {American Psychological Association}
+}
+
+@ARTICLE{BM10,
+  author = {Barnes, Michael and Duckett, Tom and Cielniak, Grzegorz and Stroud,
+	Graeme and Harper, Glyn},
+  title = {Visual detection of blemishes in potatoes using minimalist boosted
+	classifiers},
+  journal = {Journal of Food Engineering},
+  year = {2010},
+  volume = {98},
+  pages = {339--346},
+  number = {3},
+  publisher = {Elsevier}
+}
+
+@ARTICLE{BM97,
+  author = {Barni, Mauro and Cappellini, Vito and Mecocci, Alessandro},
+  title = {Colour-based detection of defects on chicken meat},
+  journal = {Image and Vision Computing},
+  year = {1997},
+  volume = {15},
+  pages = {549--556},
+  number = {7},
+  publisher = {Elsevier}
+}
+
+@INPROCEEDINGS{HB06,
+  author = {H. Bay and T. Tuytelaars and L. V. Gool},
+  title = {H. Bay and T. Tuytelaars and L. V. Gool},
+  booktitle = {Proc. ECCV},
+  year = {2006}
+}
+
+@INPROCEEDINGS{BH06,
+  author = {Bay, Herbert and Tuytelaars, Tinne and Van Gool, Luc},
+  title = {SURF: Speeded Up Robust Features},
+  booktitle = {Proc. ECCV},
+  year = {2006},
+  pages = {404--417},
+  publisher = {Springer}
+}
+
+@ARTICLE{RB96,
+  author = {Bergevin, R. and Soucy, M. and Gagnon, H. and Laurendeau, D.},
+  title = {Towards a general multi-view registration technique},
+  journal = {PAMI},
+  year = {1996},
+  volume = {18},
+  pages = {540--547},
+  number = {5},
+  publisher = {IEEE}
+}
+
+@ARTICLE{FB99,
+  author = {F. Bernardini and J. Mittleman and H. Rushmeier and C. Silva and
+	G. Taubin},
+  title = {The ball-pivoting algorithm for surface reconstruction},
+  journal = {IEEE Trans. Visual. Comput. Graph.},
+  year = {1999},
+  volume = {5},
+  pages = {349-359},
+  number = {4}
+}
+
+@ARTICLE{PB92,
+  author = {Besl, P.J. and McKay, N.D.},
+  title = {A method for registration of 3-D shapes},
+  journal = {PAMI},
+  year = {1992},
+  pages = {239--256},
+  publisher = {Published by the IEEE Computer Society}
+}
+
+@ARTICLE{BO07,
+  author = {Boiman, Oren and Irani, Michal},
+  title = {Detecting irregularities in images and in video},
+  journal = {International Journal of Computer Vision},
+  year = {2007},
+  volume = {74},
+  pages = {17--31},
+  number = {1},
+  publisher = {Springer}
+}
+
+@ARTICLE{TB06,
+  author = {Boubekeur, T. and Heidrich, W. and Granier, X. and Schlick, C.},
+  title = {Volume-Surface Trees},
+  journal = {Computer Graphics Forum},
+  year = {2006},
+  volume = {25},
+  pages = {399--406},
+  number = {3},
+  file = {TB06.pdf:TB06.pdf:PDF},
+  organization = {Wiley Online Library}
+}
+
+@ARTICLE{CB93,
+  author = {Bouman, C. and Sauer, K.},
+  title = {A generalized Gaussian image model for edge-preserving MAP estimation},
+  journal = {IEEE Transactions on Image Processing},
+  year = {1993},
+  volume = {2},
+  pages = {296--310},
+  number = {3},
+  publisher = {Citeseer}
+}
+
+@ARTICLE{YB01,
+  author = {Boykov, Y. and Veksler, O. and Zabih, R.},
+  title = {Fast approximate energy minimization via graph cuts},
+  journal = {IEEE Trans. Pattern Anal. Mach. Intell.},
+  year = {2001},
+  volume = {23},
+  pages = {1222--1239},
+  number = {11}
+}
+
+@ARTICLE{BT04,
+  author = {Brosnan, Tadhg and Sun, Da-Wen},
+  title = {Improving quality inspection of food products by computer vision----a
+	review},
+  journal = {Journal of Food Engineering},
+  year = {2004},
+  volume = {61},
+  pages = {3--16},
+  number = {1},
+  publisher = {Elsevier}
+}
+
+@ARTICLE{BB07,
+  author = {Brown, B.J. and Rusinkiewicz, S.},
+  title = {Global non-rigid alignment of 3-D scans},
+  journal = {ACM Transactions on Graphics (Proc. SIGGRAPH)},
+  year = {2007},
+  volume = {26},
+  number = {3}
+}
+
+@INPROCEEDINGS{MB05,
+  author = {M. Brown and R. Szeliski and S. Winder},
+  title = {Multi-Image Matching using Multi-Scale Oriented Patches},
+  booktitle = {Proc. International Conference on Computer Vision and Pattern Recognition},
+  year = {2005}
+}
+
+@INPROCEEDINGS{BN06,
+  author = {Bruce, N. and Tsotsos, J.},
+  title = {Saliency based on information maximization},
+  booktitle = {Proc. NIPS},
+  year = {2006}
+}
+
+@ARTICLE{CR98,
+  author = {Campbell, R. and Flynn, P.},
+  title = {A WWW-accessible 3D image and model database for computer vision
+	research},
+  journal = {Empirical Evaluation Methods in Computer Vision},
+  year = {1998},
+  pages = {148--154}
+}
+
+@ARTICLE{UC08,
+  author = {Castellani, U. and Cristani, M. and Fantoni, S. and Murino, V.},
+  title = {Sparse points matching by combining 3D mesh saliency with statistical
+	descriptors},
+  journal = {Computer Graphics Forum (Eurographics 2008)},
+  year = {2008},
+  volume = {27},
+  pages = {643--652},
+  number = {2},
+  organization = {Wiley Online Library}
+}
+
+@ARTICLE{TC01,
+  author = {Chan, T.F. and Vese, L.A.},
+  title = {{Active contours without edges}},
+  journal = {IEEE Transactions on Image Processing},
+  year = {2001},
+  volume = {10},
+  pages = {266--277},
+  number = {2},
+  issn = {1057-7149},
+  publisher = {IEEE}
+}
+
+@INPROCEEDINGS{CM12,
+  author = {Chen, Mei-Yun and Yang, Yung-Hsiang and Ho, Chia-Ju and Wang, Shih-Han
+	and Liu, Shane-Ming and Chang, Eugene and Yeh, Che-Hua and Ouhyoung,
+	Ming},
+  title = {Automatic Chinese food identification and quantity estimation},
+  booktitle = {ACM SIGGRAPH Asia Technical Briefs},
+  year = {2012}
+}
+
+@ARTICLE{XC09,
+  author = {Xiaobai Chen and Aleksey Golovinskiy and Thomas Funkhouser},
+  title = {A Benchmark for 3D Mesh Segmentation},
+  journal = {ACM Transactions on Graphics (Proc. SIGGRAPH)},
+  year = {2009},
+  volume = {28},
+  pages = {73},
+  number = {3},
+  publisher = {ACM}
+}
+
+@ARTICLE{XC12,
+  author = {Xiaobai Chen and Abulhair Saparov and Bill Pang and Thomas Funkhouser},
+  title = {Schelling Points on {3D} Surface Meshes},
+  journal = {ACM Transactions on Graphics (Proc. SIGGRAPH)},
+  year = {2012},
+  month = aug
+}
+
+@ARTICLE{CS97,
+  author = {Choi, S.M. and Lee, J.E. and Kim, J. and Kim, M.H.},
+  title = {Volumetric object reconstruction using the 3D-MRF model-based segmentation},
+  journal = {IEEE Transactions on Medical Imaging},
+  year = {1997},
+  volume = {16},
+  pages = {887},
+  number = {6}
+}
+
+@ARTICLE{CA97,
+  author = {Ciampalini, A. and Cignoni, P. and Montani, C. and Scopigno, R.},
+  title = {Multiresolution decimation based on global error},
+  journal = {The Visual Computer},
+  year = {1997},
+  volume = {13},
+  pages = {228--246},
+  number = {5},
+  file = {CA97.pdf:CA97.pdf:PDF},
+  publisher = {Springer}
+}
+
+@ARTICLE{CP08,
+  author = {P. Cignoni and M. Corsini and G. Ranzuglia},
+  title = {Meshlab: an open-source 3d mesh processing system},
+  journal = {ERCIM News (73)-http://meshlab.sourceforge.net/},
+  year = {2008},
+  pages = {45-46},
+  owner = {res},
+  timestamp = {2013.06.26}
+}
+
+@ARTICLE{PC98,
+  author = {Cignoni, P. and Rocchini, C. and Scopigno, R.},
+  title = {Metro: measuring error on simplified surfaces},
+  journal = {Computer Graphics Forum},
+  year = {1998},
+  volume = {17},
+  pages = {167--174},
+  number = {2},
+  file = {PC98.pdf:PC98.pdf:PDF},
+  organization = {Wiley Online Library}
+}
+
+@ARTICLE{CD04,
+  author = {Cohen-Steiner, D. and Alliez, P. and Desbrun, M.},
+  title = {Variational shape approximation},
+  journal = {ACM Transactions on Graphics (TOG)},
+  year = {2004},
+  volume = {23},
+  pages = {905--914},
+  number = {3},
+  file = {CD04.pdf:CD04.pdf:PDF},
+  organization = {ACM}
+}
+
+@INPROCEEDINGS{BC96,
+  author = {B. Curless and M. Levoy},
+  title = {A volumetric method for building complex models from range images},
+  booktitle = {Proc. SIGGRAPH 1996},
+  year = {1996},
+  pages = {303-312}
+}
+
+@ARTICLE{DJ08,
+  author = {Daniels, J. and Silva, C.T. and Shepherd, J. and Cohen, E.},
+  title = {Quadrilateral mesh simplification},
+  journal = {ACM Transactions on Graphics},
+  year = {2008},
+  volume = {27},
+  pages = {148},
+  number = {5},
+  file = {DJ08.pdf:DJ08.pdf:PDF},
+  organization = {ACM}
+}
+
+@ARTICLE{TD03,
+  author = {T.K. Dey and S. Goswami},
+  title = {Tight cocone: a watertight surface reconstructor},
+  journal = {J. Comput. Inf. Sci. Eng.},
+  year = {2003},
+  volume = {13},
+  pages = {302-307}
+}
+
+@CONFERENCE{JD06,
+  author = {Diebel, J. and Thrun, S.},
+  title = {An application of markov random fields to range sensing},
+  booktitle = {Proc. NIPS 2006},
+  year = {2006}
+}
+
+@ARTICLE{JD06a,
+  author = {Diebel, J.R. and Thrun, S. and Brunig, M.},
+  title = {A Bayesian method for probable surface reconstruction and decimation},
+  journal = {ACM Transactions on Graphics},
+  year = {2006},
+  volume = {25},
+  pages = {39-59},
+  number = {1},
+  publisher = {ACM}
+}
+
+@ARTICLE{JD10,
+  author = {Digne, J. and Morel, J.M. and Audfray, N. and Lartigue, C.},
+  title = {High fidelity scan merging},
+  journal = {Computer Graphics Forum},
+  year = {2010},
+  volume = {29},
+  pages = {1643--1651},
+  number = {5}
+}
+
+@INPROCEEDINGS{AD00,
+  author = {A. Domingo and M. Angel},
+  title = {Incremental multiview integration of range images},
+  booktitle = {Proc. ICPR},
+  year = {2000},
+  pages = {546-549}
+}
+
+@ARTICLE{CD98,
+  author = {C. Dorai and G. Wang},
+  title = {Registration and integration of multiple object views for 3D model
+	construction},
+  journal = {IEEE Trans. Pattern Anal. Mach. Intell.},
+  year = {1998},
+  volume = {20},
+  pages = {83-89},
+  number = {1}
+}
+
+@BOOK{DE90,
+  title = {Machine Vision},
+  publisher = {Academic Prss Limited, London},
+  year = {1990},
+  author = {Davies E.R.},
+  owner = {Ran},
+  timestamp = {2014.04.03}
+}
+
+@ARTICLE{EA03,
+  author = {Elad, A. and Kimmel, R.},
+  title = {On bending invariant signatures for surfaces},
+  journal = {Pattern Analysis and Machine Intelligence, IEEE Transactions on},
+  year = {2003},
+  volume = {25},
+  pages = {1285--1295},
+  number = {10},
+  publisher = {IEEE}
+}
+
+@INPROCEEDINGS{FP10,
+  author = {Fang, Luping and Xie, Chao},
+  title = {1-D barcode localization in complex background},
+  booktitle = {Computational Intelligence and Software Engineering (CiSE), 2010
+	International Conference on},
+  year = {2010},
+  pages = {1--3},
+  organization = {IEEE}
+}
+
+@ARTICLE{FM09,
+  author = {Feixas, M. and Sbert, M. and Gonz{\'a}lez, F.},
+  title = {A unified information-theoretic framework for viewpoint selection
+	and mesh saliency},
+  journal = {ACM Transactions on Applied Perception (TAP)},
+  year = {2009},
+  volume = {6},
+  pages = {1},
+  number = {1},
+  publisher = {ACM}
+}
+
+@ARTICLE{PF06,
+  author = {P. Felzenszwalb and D. Huttenlocher},
+  title = {Efficient Belief Propagation for Early Vision},
+  journal = {IJCV},
+  year = {2006},
+  volume = {70},
+  pages = {41-54},
+  number = {1}
+}
+
+@ARTICLE{FP04,
+  author = {Felzenszwalb, Pedro F and Huttenlocher, Daniel P},
+  title = {Efficient graph-based image segmentation},
+  journal = {International Journal of Computer Vision},
+  year = {2004},
+  volume = {59},
+  pages = {167--181},
+  number = {2},
+  publisher = {Springer}
+}
+
+@ARTICLE{FM81,
+  author = {Fischler, Martin A and Bolles, Robert C},
+  title = {Random sample consensus: a paradigm for model fitting with applications
+	to image analysis and automated cartography},
+  journal = {Communications of the ACM},
+  year = {1981},
+  volume = {24},
+  pages = {381--395},
+  number = {6},
+  publisher = {ACM}
+}
+
+@ARTICLE{WF00,
+  author = {Freeman, W.T. and Pasztor, E.C. and Carmichael, O.T.},
+  title = {Learning low-level vision},
+  journal = {IJCV},
+  year = {2000},
+  volume = {40},
+  pages = {25--47},
+  number = {1},
+  publisher = {Springer}
+}
+
+@ARTICLE{GR06,
+  author = {Gal, R. and Cohen-Or, D.},
+  title = {Salient geometric features for partial shape matching and similarity},
+  journal = {ACM Transactions on Graphics},
+  year = {2006},
+  volume = {25},
+  pages = {130--150},
+  number = {1},
+  publisher = {ACM}
+}
+
+@INPROCEEDINGS{GM97,
+  author = {Garland, M. and Heckbert, P.S.},
+  title = {Surface simplification using quadric error metrics},
+  booktitle = {Proc. SIGGRAPH},
+  year = {1997},
+  pages = {209--216},
+  organization = {ACM Press/Addison-Wesley Publishing Co.},
+  file = {GM97.pdf:GM97.pdf:PDF}
+}
+
+@ARTICLE{DG91,
+  author = {Geiger, D. and Girosi, F.},
+  title = {Parallel and deterministic algorithms from MRFs: Surface reconstruction},
+  journal = {PAMI},
+  year = {1991},
+  pages = {401--412},
+  publisher = {Published by the IEEE Computer Society}
+}
+
+@CONFERENCE{GN05,
+  author = {Gelfand, N. and Mitra, N.J. and Guibas, L.J. and Pottmann, H.},
+  title = {Robust global registration},
+  booktitle = {Proc. Eurographics Symposium on Geometry Processing 2005},
+  year = {2005}
+}
+
+@CONFERENCE{MG88,
+  author = {Gennert, M.A.},
+  title = {Brightness-based stereo matching},
+  booktitle = {Proc. ICCV},
+  year = {1988}
+}
+
+@INPROCEEDINGS{GS10,
+  author = {Goferman, S. and Zelnik-Manor, L. and Tal, A.},
+  title = {Context-aware saliency detection},
+  booktitle = {Proc. CVPR},
+  year = {2010},
+  pages = {2376--2383}
+}
+
+@ARTICLE{GC09,
+  author = {Gonz{\'a}lez, C. and Gumbau, J. and Chover, M. and Ramos, F. and
+	Quir{\'o}s, R.},
+  title = {User-assisted simplification method for triangle meshes preserving
+	boundaries},
+  journal = {Computer-Aided Design},
+  year = {2009},
+  volume = {41},
+  pages = {1095--1106},
+  number = {12},
+  file = {GC09.pdf:GC09.pdf:PDF},
+  publisher = {Elsevier}
+}
+
+@BOOK{GR08,
+  title = {Digital Image Processing},
+  publisher = {Addison-Wesley Longman Publishing Co.},
+  year = {2008},
+  author = {Gonzalez, R. C. and Woods, R. E.},
+  address = {Boston, MA, USA},
+  owner = {Ran},
+  timestamp = {2014.04.07}
+}
+
+@ARTICLE{GS96,
+  author = {Gunasekaran, Sundaram},
+  title = {Computer vision technology for food quality assurance},
+  journal = {Trends in Food Science \& Technology},
+  year = {1996},
+  volume = {7},
+  pages = {245--256},
+  number = {8},
+  publisher = {Elsevier}
+}
+
+@ARTICLE{SG96,
+  author = {Gunasekaran, Sundaram},
+  title = {Computer vision technology for food quality assurance},
+  journal = {Trends in Food Science \& Technology},
+  year = {1996},
+  volume = {7},
+  pages = {245--256},
+  number = {8},
+  publisher = {Elsevier}
+}
+
+@ARTICLE{BG96,
+  author = {Gunsel, B. and Jain, A.K. and Panayirci, E.},
+  title = {Reconstruction and boundary detection of range and intensity images
+	using multiscale MRF representations},
+  journal = {Computer Vision and Image Understanding},
+  year = {1996},
+  volume = {63},
+  pages = {353--366},
+  number = {2},
+  publisher = {Elsevier}
+}
+
+@INPROCEEDINGS{GC08,
+  author = {Guo, C. and Ma, Q. and Zhang, L.},
+  title = {Spatio-temporal saliency detection using phase spectrum of quaternion
+	fourier transform},
+  booktitle = {Computer Vision and Pattern Recognition, 2008. CVPR 2008. IEEE Conference
+	on},
+  year = {2008},
+  pages = {1--8},
+  organization = {IEEE}
+}
+
+@ARTICLE{GG97,
+  author = {Guy, G. and Medioni, G.},
+  title = {Inference of surfaces, 3D curves, and junctions from sparse, noisy,
+	3D data},
+  journal = {IEEE Trans. Pattern Anal. Mach. Intell.},
+  year = {1997},
+  volume = {19},
+  pages = {1265--1277},
+  number = {11},
+  publisher = {IEEE}
+}
+
+@INPROCEEDINGS{HC88,
+  author = {Harris, C. and Stephens, M.},
+  title = {A combined corner and edge detector},
+  booktitle = {Alvey vision conference},
+  year = {1988},
+  volume = {15},
+  pages = {50},
+  organization = {Manchester, UK}
+}
+
+@ARTICLE{HJ05,
+  author = {Henderson, J.M. and Williams, C.C. and Falk, R.J.},
+  title = {Eye movements are functional during face learning},
+  journal = {Memory \& cognition},
+  year = {2005},
+  volume = {33},
+  pages = {98--106},
+  number = {1},
+  publisher = {Springer}
+}
+
+@INPROCEEDINGS{AH96,
+  author = {A. Hiliton and A.J. Stoddat and J. Illingworth and T.Windeat},
+  title = {Marching triangles: range image fusion for complex object modelling},
+  booktitle = {Proc. ICIP},
+  year = {1996},
+  pages = {381-384}
+}
+
+@TECHREPORT{AH95,
+  author = {A. Hilton},
+  title = {On Reliable Surface Reconstruction from multiple range images},
+  year = {1995},
+  journal = {Technical Report VSSP-TR-T/95}
+}
+
+@ARTICLE{AH00,
+  author = {A. Hilton and J. Illingworth},
+  title = {Geometric fusion for a hand-held 3D sensor},
+  journal = {Mach. Vision Appl.},
+  year = {2000},
+  volume = {12},
+  pages = {44-51}
+}
+
+@INPROCEEDINGS{HH96,
+  author = {Hoppe, H.},
+  title = {Progressive meshes},
+  booktitle = {Proc. SIGGRAPH},
+  year = {1996},
+  pages = {99--108},
+  organization = {ACM},
+  file = {HH96.pdf:HH96.pdf:PDF}
+}
+
+@INPROCEEDINGS{HH93,
+  author = {Hoppe, H. and DeRose, T. and Duchamp, T. and McDonald, J. and Stuetzle,
+	W.},
+  title = {Mesh optimization},
+  booktitle = {Proc. SIGGRAPH},
+  year = {1993},
+  pages = {19--26},
+  organization = {ACM},
+  file = {HH93.pdf:HH93.pdf:PDF}
+}
+
+@ARTICLE{HH92,
+  author = {Hoppe, H. and DeRose, T. and Duchamp, T. and McDonald, J. and Stuetzle,
+	W.},
+  title = {Surface reconstruction from unorganized points},
+  journal = {COMPUTER GRAPHICS-NEW YORK-ASSOCIATION FOR COMPUTING MACHINERY-},
+  year = {1992},
+  volume = {26},
+  pages = {71--71},
+  publisher = {Citeseer}
+}
+
+@INPROCEEDINGS{HX07,
+  author = {Hou, X. and Zhang, L.},
+  title = {Saliency detection: A spectral residual approach},
+  booktitle = {Proc. CVPR},
+  year = {2007},
+  pages = {1--8},
+  organization = {Ieee}
+}
+
+@BOOK{HI02,
+  title = {Seeing in depth},
+  publisher = {University of Toronto Press},
+  year = {2002},
+  author = {Howard, I.P.}
+}
+
+@ARTICLE{SH05,
+  author = {Howlett, S. and Hamill, J. and O'Sullivan, C.},
+  title = {Predicting and evaluating saliency for simplified polygonal models},
+  journal = {ACM Transactions on Applied Perception (TAP)},
+  year = {2005},
+  volume = {2},
+  pages = {286--308},
+  number = {3},
+  file = {SH05.pdf:SH05.pdf:PDF},
+  publisher = {ACM}
+}
+
+@INPROCEEDINGS{HS04,
+  author = {Howlett, S. and Hamill, J. and O'Sullivan, C.},
+  title = {An experimental approach to predicting saliency for simplified polygonal
+	models},
+  booktitle = {Proceedings of the 1st Symposium on Applied Perception in Graphics
+	and Visualization},
+  year = {2004},
+  pages = {57--64},
+  organization = {ACM}
+}
+
+@ARTICLE{HH08,
+  author = {Huang, H. and Ascher, U.},
+  title = {Fast denoising of surface meshes with intrinsic texture},
+  journal = {Inverse Problems},
+  year = {2008},
+  volume = {24},
+  pages = {034003},
+  publisher = {IOP Publishing}
+}
+
+@CONFERENCE{QH07,
+  author = {Huang, Q.X. and Adams, B. and Wand, M.},
+  title = {Bayesian surface reconstruction via iterative scan alignment to an
+	optimized prototype},
+  booktitle = {Proc. Eurographics Symposium on Geometry Processing 2007},
+  year = {2007},
+  file = {:QH07.pdf:PDF}
+}
+
+@ARTICLE{DH03,
+  author = {Huber, D.F. and Hebert, M.},
+  title = {Fully automatic registration of multiple 3D data sets},
+  journal = {Image and Vision Computing},
+  year = {2003},
+  volume = {21},
+  pages = {637--650},
+  number = {7},
+  publisher = {Elsevier}
+}
+
+@ARTICLE{IJ01,
+  author = {Intriligator, J. and Cavanagh, P.},
+  title = {The spatial resolution of visual attention},
+  journal = {Cognitive psychology},
+  year = {2001},
+  volume = {43},
+  pages = {171--216},
+  number = {3},
+  publisher = {Elsevier}
+}
+
+@ARTICLE{IL98,
+  author = {Itti, L. and Koch, C. and Niebur, E.},
+  title = {A model of saliency-based visual attention for rapid scene analysis},
+  journal = {IEEE Trans. Pattern Anal. Mach. Intell.},
+  year = {1998},
+  volume = {20},
+  pages = {1254--1259},
+  number = {11}
+}
+
+@ARTICLE{JB74,
+  author = {J.Besag},
+  title = {Spatioal interaction and the statistic analysis of lattice systems},
+  journal = {J. Royal. Statist. Soc. B},
+  year = {1974},
+  volume = {36},
+  pages = {192-193}
+}
+
+@ARTICLE{JP13,
+  author = {Jackman, Patrick and Sun, Da-Wen},
+  title = {Recent advances in image processing using image texture features
+	for food quality assessment},
+  journal = {Trends in Food Science \& Technology},
+  year = {2013},
+  volume = {29},
+  pages = {35--43},
+  number = {1},
+  publisher = {Elsevier}
+}
+
+@ARTICLE{JV07,
+  author = {Jain, V. and Zhang, H. and van Kaick, O.},
+  title = {Non-rigid spectral correspondence of triangle meshes},
+  journal = {International Journal of Shape Modeling},
+  year = {2007},
+  volume = {13},
+  pages = {101},
+  number = {1}
+}
+
+@CONFERENCE{PJ06,
+  author = {Jenke, P. and Wand, M. and Bokeloh, M. and Schilling, A. and Stra{\ss}er,
+	W.},
+  title = {Bayesian point cloud reconstruction},
+  booktitle = {Proc. Eurographics},
+  year = {2006}
+}
+
+@ARTICLE{JH05,
+  author = {Jin, H. and Soatto, S. and Yezzi, A.J.},
+  title = {{Multi-view stereo reconstruction of dense shape and complex appearance}},
+  journal = {IJCV},
+  year = {2005},
+  volume = {63},
+  pages = {175--189},
+  number = {3},
+  issn = {0920-5691},
+  publisher = {Kluwer Academic Publishers}
+}
+
+@INPROCEEDINGS{JT09,
+  author = {Joutou, Taichi and Yanai, Keiji},
+  title = {A food image recognition system with multiple kernel learning},
+  booktitle = {Proceedings of International Conference on Image Processing},
+  year = {2009},
+  pages = {285--288}
+}
+
+@CONFERENCE{MC04,
+  author = {Kaess, M. and Zboinski, R. and Dellaert, F.},
+  title = {MCMC-based multiview reconstruction of piecewise smooth subdivision
+	curves with a variable number of control points},
+  booktitle = {Proc. ECCV},
+  year = {2004}
+}
+
+@ARTICLE{KK00,
+  author = {K.N. Katulakos and S.M. Seitz},
+  title = {A theory of shape by space carving},
+  journal = {Int. J. Comput. Vision},
+  year = {2000},
+  volume = {38},
+  pages = {199-218}
+}
+
+@ARTICLE{KY10,
+  author = {Kim, Y. and Varshney, A. and Jacobs, D.W. and Guimbretiere, F.},
+  title = {Mesh saliency and human eye fixations},
+  journal = {ACM Transactions on Applied Perception (TAP)},
+  year = {2010},
+  volume = {7},
+  number = {2},
+  file = {KY10.pdf:KY10.pdf:PDF},
+  publisher = {ACM}
+}
+
+@ARTICLE{KC99,
+  author = {Koch, C. and Poggio, T.},
+  title = {Predicting the visual world: silence is golden},
+  journal = {nature neuroscience},
+  year = {1999},
+  volume = {2},
+  pages = {9--10}
+}
+
+@ARTICLE{KJ84,
+  author = {Koenderink, J.J.},
+  title = {The structure of images},
+  journal = {Biological cybernetics},
+  year = {1984},
+  volume = {50},
+  pages = {363--370},
+  number = {5},
+  publisher = {Springer}
+}
+
+@BOOK{KK55,
+  title = {Principles of Gestalt Psychology},
+  publisher = {Routledge \& Kegan Paul},
+  year = {1955},
+  author = {K. Koffka},
+  owner = {res},
+  timestamp = {2012.05.21}
+}
+
+@CONFERENCE{NK07,
+  author = {Kohli, P. and Kumar, M.P. and Torr, P.H.S.},
+  title = {$P^3$ beyond: Solving energies with higher order cliques},
+  booktitle = {Proc. CVPR 2007},
+  year = {2007}
+}
+
+@ARTICLE{KK09,
+  author = {Kolev, K. and Klodt, M. and Brox, T. and Cremers, D.},
+  title = {Continuous global optimization in multiview 3d reconstruction},
+  journal = {IJCV},
+  year = {2009},
+  volume = {84},
+  pages = {80--96},
+  number = {1},
+  issn = {0920-5691},
+  publisher = {Springer}
+}
+
+@ARTICLE{VK04,
+  author = {Vladimir Kolmogorov and Ramin Zabih},
+  title = {What Energy Functions can be Minimized via Graph Cuts?},
+  journal = {PAMI},
+  year = {2004},
+  volume = {26},
+  pages = {147-159},
+  number = {2}
+}
+
+@CONFERENCE{VK02,
+  author = {Kolmogorov, V. and Zabih, R.},
+  title = {Multi-camera scene reconstruction via graph cuts},
+  booktitle = {Proc. ECCV},
+  year = {2002}
+}
+
+@CONFERENCE{NK09,
+  author = {Komodakis, N. and Paragios, N.},
+  title = {Beyond pairwise energies: Efficient optimization for higher-order
+	MRFs},
+  booktitle = {Proc. CVPR 2009},
+  year = {2009}
+}
+
+@INPROCEEDINGS{KS05,
+  author = {Krishnan, S. and Lee, P.Y. and Moore, J.B. and Venkatasubramanian,
+	S.},
+  title = {Global registration of multiple 3D point sets via optimization-on-a-manifold},
+  booktitle = {Proc. Eurographics Symposium on Geometry Processing 2005},
+  year = {2005}
+}
+
+@INPROCEEDINGS{LB10,
+  author = {L{\'e}vy, Bruno and Zhang, Hao (Richard)},
+  title = {Spectral mesh processing},
+  booktitle = {ACM SIGGRAPH 2010 Courses},
+  year = {2010},
+  series = {SIGGRAPH '10},
+  pages = {8:1--8:312},
+  address = {New York, NY, USA},
+  publisher = {ACM},
+  acmid = {1837109},
+  articleno = {8},
+  doi = {10.1145/1837101.1837109},
+  isbn = {978-1-4503-0395-8},
+  location = {Los Angeles, California},
+  numpages = {312},
+  url = {http://doi.acm.org/10.1145/1837101.1837109}
+}
+
+@CONFERENCE{LX06,
+  author = {Lan, X. and Roth, S. and Huttenlocher, D. and Black, M.},
+  title = {Efficient belief propagation with learned higher-order markov random
+	fields},
+  booktitle = {Proc. ECCV 2006},
+  year = {2006}
+}
+
+@BOOK{LP85,
+  title = {The theory of matrices: with applications},
+  publisher = {Academic Pr},
+  year = {1985},
+  author = {Lancaster, P. and Tismenetsky, M.}
+}
+
+@ARTICLE{CL94,
+  author = {C.K. Lee and S.H. Lo},
+  title = {A new scheme for the generation of a graded quadrilateral mesh},
+  journal = {Computers and Structures},
+  year = {1994},
+  volume = {52},
+  pages = {847-857}
+}
+
+@INPROCEEDINGS{LC05,
+  author = {Lee, C.H. and Varshney, A. and Jacobs, D.W.},
+  title = {Mesh saliency},
+  year = {2005},
+  file = {LC05.pdf:LC05.pdf:PDF},
+  journal = {ACM Transactions on Graphics (Proc. SIGGRAPH)}
+}
+
+@ARTICLE{LK07,
+  author = {Lee, Kok-Meng and Li, Qiang and Daley, Wayne},
+  title = {Effects of classification methods on color-based feature detection
+	with food processing applications},
+  journal = {IEEE Transactions on Automation Science and Engineering},
+  year = {2007},
+  volume = {4},
+  pages = {40--51},
+  number = {1},
+  publisher = {IEEE}
+}
+
+@INPROCEEDINGS{GL12,
+  author = {George Leifman and Elizabeth Shtrom and Ayellet Tal},
+  title = {Surface Regions of Interest for Viewpoint Selection},
+  booktitle = {Proc. CVPR (oral)},
+  year = {2012},
+  file = {:cvpr 2012 salient view.pdf:PDF},
+  owner = {res},
+  timestamp = {2012.07.27}
+}
+
+@ARTICLE{LM05,
+  author = {Lhuillier, M. and Quan, L.},
+  title = {A quasi-dense approach to surface reconstruction from uncalibrated
+	images},
+  journal = {PAMI},
+  year = {2005},
+  volume = {27},
+  pages = {418--433},
+  number = {3},
+  publisher = {Published by the IEEE Computer Society}
+}
+
+@BOOK{SL09,
+  title = {Markov random field modeling in image analysis},
+  publisher = {Springer-Verlag New York Inc},
+  year = {2009},
+  author = {Li, S.Z.}
+}
+
+@BOOK{SL95,
+  title = {Markov random field modelling in computer vision. 2nd ed},
+  publisher = {Springer-Verlag},
+  year = {1995},
+  author = {S.Z. Li}
+}
+
+@INPROCEEDINGS{XL04,
+  author = {X. Li and W.G. Wee},
+  title = {Range image fusion for object reconstruction and modelling},
+  booktitle = {Proc. First Canadian Conference on Computer and Robot Vision},
+  year = {2004},
+  pages = {306-314}
+}
+
+@ARTICLE{LT94,
+  author = {Lindeberg, T.},
+  title = {Scale-space theory: A basic tool for analyzing structures at different
+	scales},
+  journal = {Journal of applied statistics},
+  year = {1994},
+  volume = {21},
+  pages = {225--270},
+  number = {1-2},
+  publisher = {Taylor \& Francis}
+}
+
+@INPROCEEDINGS{LP00,
+  author = {Lindstrom, P.},
+  title = {Out-of-core simplification of large polygonal models},
+  booktitle = {Proc. SIGGRAPH},
+  year = {2000},
+  pages = {259--262},
+  file = {LP00.pdf:LP00.pdf:PDF}
+}
+
+@ARTICLE{YL11,
+  author = {Liu, Y.},
+  title = {Penalizing Closest Point Sharing for Automatic Free Form Shape Registration},
+  journal = {PAMI},
+  year = {2011},
+  volume = {33},
+  pages = {1058-1064},
+  number = {5},
+  issn = {0162-8828},
+  publisher = {IEEE}
+}
+
+@ARTICLE{YL10,
+  author = {Yonghuai Liu},
+  title = {Automatic Range Image Registration in the Markov Chain},
+  journal = {PAMI},
+  year = {2010},
+  volume = {32},
+  pages = {12--29},
+  number = {1},
+  address = {Washington, DC, USA},
+  publisher = {IEEE Computer Society}
+}
+
+@ARTICLE{YL09,
+  author = {Liu, Y.},
+  title = {Replicator dynamics in the iterative process for accurate range image
+	matching},
+  journal = {IJCV},
+  year = {2009},
+  volume = {83},
+  pages = {30--56},
+  number = {1},
+  issn = {0920-5691},
+  publisher = {Springer}
+}
+
+@ARTICLE{YL05,
+  author = {Yonghuai Liu},
+  title = {Automatic 3d free form shape matching using the graduated assignment
+	algorithm},
+  journal = {Pattern Recognition},
+  year = {2005},
+  volume = {38},
+  pages = {1615-1631},
+  number = {10}
+}
+
+@ARTICLE{TL09,
+  author = {T.R. Lo and J.P. Siebert},
+  title = {Local feature extraction and matching on range images: 2.5D SIFT},
+  journal = {CVIU},
+  year = {2009},
+  volume = {113},
+  pages = {1235-1250},
+  number = {12}
+}
+
+@INPROCEEDINGS{WL87,
+  author = {W.E. Lorensen and H.E. Cline},
+  title = {Marching cubes: a high resolution 3D surface construction algorithm},
+  booktitle = {Proc. SIGGRAPH},
+  year = {1987},
+  pages = {163-169}
+}
+
+@ARTICLE{ML05,
+  author = {Lorenz, M.O.},
+  title = {{Methods of measuring the concentration of wealth}},
+  journal = {Publications of the American Statistical Association},
+  year = {1905},
+  volume = {9},
+  pages = {209--219},
+  number = {70},
+  issn = {1522-5437},
+  publisher = {JSTOR}
+}
+
+@ARTICLE{LD04,
+  author = {Lowe, D.},
+  title = {Distinctive image features from scale-invar-iant keypoints},
+  journal = {International Journal of Computer Vision},
+  year = {2004},
+  volume = {60},
+  pages = {91--110},
+  number = {2},
+  publisher = {Springer}
+}
+
+@ARTICLE{BM96,
+  author = {B. S. Manjunath and W.Y. Ma},
+  title = {Texture features for browsing and retrieval of image data},
+  journal = {IEEE Transactions on Pattern Analysis and Machine Intelligence (PAMI
+	- Special issue on Digital Libraries)},
+  year = {1996},
+  volume = {18},
+  pages = {837--42},
+  number = {8},
+  month = {Aug},
+  url = {http://vision.ece.ucsb.edu/publications/96PAMITrans.pdf}
+}
+
+@INPROCEEDINGS{MR03,
+  author = {Mantiuk, R. and Myszkowski, K. and Pattanaik, S.},
+  title = {Attention guided MPEG compression for computer animations},
+  booktitle = {Proceedings of the 19th spring conference on Computer graphics},
+  year = {2003},
+  pages = {239--244},
+  organization = {ACM}
+}
+
+@INPROCEEDINGS{MY12,
+  author = {Matsuda, Yuji and Yanai, Keiji},
+  title = {Multiple-food recognition considering co-occurrence employing manifold
+	ranking},
+  booktitle = {Proceedings of International Conference on Pattern Recognition},
+  year = {2012},
+  pages = {2017--2020}
+}
+
+@ARTICLE{BM04,
+  author = {B. Mederos and L. Velho and L.H. de Figueiredo},
+  title = {Smooth surface reconstruction from noisy clouds},
+  journal = {J. Braz. Comput. Soc.},
+  year = {2004},
+  volume = {9},
+  pages = {52-66}
+}
+
+@INPROCEEDINGS{MJ06,
+  author = {Mutch, J. and Lowe, D.G.},
+  title = {Multiclass object recognition with sparse, localized features},
+  booktitle = {Proc. CVPR},
+  year = {2006},
+  volume = {1},
+  pages = {11--18},
+  organization = {IEEE}
+}
+
+@INPROCEEDINGS{ND04,
+  author = {Nehab, D. and Shilane, P.},
+  title = {Stratified point sampling of 3D models},
+  booktitle = {Eurographics symposium on point-based graphics},
+  year = {2004}
+}
+
+@INPROCEEDINGS{NK02,
+  author = {Nishino, K. and Ikeuchi, K.},
+  title = {Robust simultaneous registration of multiple range images},
+  booktitle = {Proc. ACCV 2002},
+  year = {2002}
+}
+
+@ARTICLE{OT02,
+  author = {Ojala, Timo and Pietikainen, Matti and Maenpaa, Topi},
+  title = {Multiresolution gray-scale and rotation invariant texture classification
+	with local binary patterns},
+  journal = {IEEE Transactions on Pattern Analysis and Machine Intelligence},
+  year = {2002},
+  volume = {24},
+  pages = {971--987},
+  number = {7},
+  publisher = {IEEE}
+}
+
+@ARTICLE{OA01,
+  author = {Oliva, A. and Torralba, A.},
+  title = {Modeling the shape of the scene: A holistic representation of the
+	spatial envelope},
+  journal = {International Journal of Computer Vision},
+  year = {2001},
+  volume = {42},
+  pages = {145--175},
+  number = {3},
+  publisher = {Springer}
+}
+
+@INPROCEEDINGS{OA06,
+  author = {Oliva, A. and Torralba, A. and Schyns, P.G.},
+  title = {Hybrid images},
+  booktitle = {ACM Transactions on Graphics (Siggraph)},
+  year = {2006},
+  volume = {25},
+  number = {3},
+  pages = {527--532},
+  organization = {ACM}
+}
+
+@ARTICLE{OR2002,
+  author = {Osada, R. and Funkhouser, T. and Chazelle, B. and Dobkin, D.},
+  title = {Shape distributions},
+  journal = {ACM Transactions on Graphics},
+  year = {2002},
+  volume = {21},
+  pages = {807--832},
+  number = {4},
+  publisher = {ACM}
+}
+
+@ARTICLE{OS08,
+  author = {Osindero, S. and Hinton, G.E.},
+  title = {Modeling image patches with a directed hierarchy of Markov random
+	fields},
+  journal = {Advances in neural information processing systems (NIPS 2008)},
+  year = {2008},
+  volume = {20},
+  pages = {1121--1128}
+}
+
+@ARTICLE{RP10,
+  author = {Paulsen, R.R. and B{\ae}rentzen, J.A. and Larsen, R.},
+  title = {Markov Random Field Surface Reconstruction},
+  journal = {IEEE Transactions on Visualization and Computer Graphics},
+  year = {2010},
+  volume = {16},
+  pages = {636-646},
+  number = {4}
+}
+
+@INPROCEEDINGS{MP02,
+  author = {Pauly, M. and Gross, M. and Kobbelt, L.P.},
+  title = {Efficient simplification of point-sampled surfaces},
+  booktitle = {Proc. IEEE Visualization},
+  year = {2002},
+  pages = {163--170},
+  organization = {IEEE},
+  file = {MP02.pdf:MP02.pdf:PDF}
+}
+
+@ARTICLE{PM03,
+  author = {Pauly, M. and Keiser, R. and Gross, M.},
+  title = {Multi-scale Feature Extraction on Point-Sampled Surfaces},
+  journal = {Computer Graphics Forum},
+  year = {2003},
+  volume = {22},
+  pages = {281--289},
+  number = {3},
+  organization = {Wiley Online Library}
+}
+
+@ARTICLE{PM06,
+  author = {Pauly, M. and Kobbelt, L.P. and Gross, M.},
+  title = {Point-based multiscale surface representation},
+  journal = {ACM Transactions on Graphics (TOG)},
+  year = {2006},
+  volume = {25},
+  pages = {177--193},
+  number = {2},
+  publisher = {ACM}
+}
+
+@ARTICLE{PK02,
+  author = {Pelphrey, K.A. and Sasson, N.J. and Reznick, J.S. and Paul, G. and
+	Goldman, B.D. and Piven, J.},
+  title = {Visual scanning of faces in autism},
+  journal = {Journal of autism and developmental disorders},
+  year = {2002},
+  volume = {32},
+  pages = {249--261},
+  number = {4},
+  publisher = {Springer}
+}
+
+@ARTICLE{AP06,
+  author = {Pizurica, A. and Philips, W.},
+  title = {Estimating the probability of the presence of a signal of interest
+	in multiresolution single-and multiband image denoising},
+  journal = {IEEE Transactions on image processing},
+  year = {2006},
+  volume = {15},
+  number = {3}
+}
+
+@ARTICLE{JP07,
+  author = {Pons, J.P. and Keriven, R. and Faugeras, O.},
+  title = {Multi-view stereo reconstruction and scene flow estimation with a
+	global image-based matching score},
+  journal = {IJCV},
+  year = {2007},
+  volume = {72},
+  pages = {179--193},
+  number = {2},
+  issn = {0920-5691},
+  publisher = {Springer}
+}
+
+@BOOK{WP88,
+  title = {Numerical recipes in C: the art of scientific computing},
+  publisher = {Cambridge University Press, Cambridge; New York},
+  year = {1988},
+  author = {W. H. Press}
+}
+
+@INPROCEEDINGS{RE10,
+  author = {Rahtu, E. and Kannala, J. and Salo, M. and Heikkil{\"a}, J.},
+  title = {Segmenting salient objects from images and videos},
+  booktitle = {Proc. ECCV},
+  year = {2010},
+  owner = {res},
+  timestamp = {2012.05.21}
+}
+
+@INPROCEEDINGS{YR04,
+  author = {Y. K. Rahul},
+  title = {PCA-SIFT: A more distinctive representation for local image descriptors},
+  booktitle = {Proc. IEEE Conference on Computer Vision and Pattern Recognition},
+  year = {2004},
+  pages = {511-517}
+}
+
+@TECHREPORT{RY11,
+  author = {Ren, Carl Yuheng and Reid, Ian},
+  title = {g{SLIC}: a real-time implementation of SLIC superpixel segmentation},
+  institution = {University of Oxford, Department of Engineering},
+  year = {2011},
+  owner = {Ran},
+  timestamp = {2014.04.07}
+}
+
+@ARTICLE{RA10,
+  author = {Rocha, Anderson and Hauagge, Daniel C and Wainer, Jacques and Goldenstein,
+	Siome},
+  title = {Automatic fruit and vegetable classification from images},
+  journal = {Computers and electronics in agriculture},
+  year = {2010},
+  volume = {70},
+  pages = {96--104},
+  number = {1},
+  publisher = {Elsevier}
+}
+
+@ARTICLE{RJ93,
+  author = {Rossignac, J.R. and Borrell, P.},
+  title = {Multi-resolution 3d approximation for rendering complex scenes},
+  journal = {Modeling in Computer Graphics},
+  year = {1993},
+  pages = {455-465},
+  file = {RJ93.pdf:RJ93.pdf:PDF}
+}
+
+@CONFERENCE{CR09,
+  author = {Rother, C. and Kohli, P. and Feng, W. and Jia, J.},
+  title = {Minimizing sparse higher order energy functions of discrete variables},
+  booktitle = {Proc. CVPR 2009},
+  year = {2009}
+}
+
+@ARTICLE{RD94,
+  author = {Ruderman, D.L.},
+  title = {The statistics of natural images},
+  journal = {Network: computation in neural systems},
+  year = {1994},
+  volume = {5},
+  pages = {517--548},
+  number = {4},
+  publisher = {Informa UK Ltd UK}
+}
+
+@INPROCEEDINGS{SR02,
+  author = {S. Rusinkiewicz and O. Hall-Holt and M. Levoy},
+  title = {Real-time 3D model acquisition},
+  booktitle = {Proc. SIGGRAPH 2002},
+  year = {2002}
+}
+
+@INPROCEEDINGS{RR02,
+  author = {Russo, Richard and Mubarak Shah and Niels Lobo},
+  title = {A computer vision system for monitoring production of fast food},
+  booktitle = {Proceedings of Asian Conference on Computer Vision},
+  year = {2002},
+  owner = {Ran},
+  timestamp = {2014.04.04}
+}
+
+@INPROCEEDINGS{MR94,
+  author = {M. Rutishauser and M. Stricker and M. Trobina},
+  title = {Merging range images of arbitrarily shaped objects},
+  booktitle = {Proc. CVPR 1994},
+  year = {1994}
+}
+
+@ARTICLE{RS05,
+  author = {R. Sagawa and K. Nishino and K. Ikeuchi},
+  title = {Adaptively merging large-scale range data with reflectance properties},
+  journal = {PAMI},
+  year = {2005},
+  volume = {27},
+  pages = {392-405}
+}
+
+@ARTICLE{VS96,
+  author = {van der Schaaf, A. and van Hateren, J.H.},
+  title = {Modelling the power spectra of natural images: statistics and information},
+  journal = {Vision research},
+  year = {1996},
+  volume = {36},
+  pages = {2759--2770},
+  number = {17},
+  publisher = {Elsevier}
+}
+
+@ARTICLE{SW03,
+  author = {Schaefer, S. and Warren, J.},
+  title = {Adaptive vertex clustering using octrees},
+  journal = {Geometric Design and Computing},
+  year = {2003},
+  file = {SW03.pdf:SW03.pdf:PDF}
+}
+
+@ARTICLE{SR99,
+  author = {Schapire, Robert E and Singer, Yoram},
+  title = {Improved boosting algorithms using confidence-rated predictions},
+  journal = {Machine learning},
+  year = {1999},
+  volume = {37},
+  pages = {297--336},
+  number = {3},
+  publisher = {Springer}
+}
+
+@INPROCEEDINGS{SW92,
+  author = {Schroeder, W.J. and Zarge, J.A. and Lorensen, W.E.},
+  title = {Decimation of triangle meshes},
+  booktitle = {Proc. SIGGRAPH},
+  year = {1992},
+  file = {SW92.pdf:SW92.pdf:PDF}
+}
+
+@CONFERENCE{SS06,
+  author = {Seitz, S.M. and Curless, B. and Diebel, J. and Scharstein, D. and
+	Szeliski, R.},
+  title = {A comparison and evaluation of multi-view stereo reconstruction algorithms},
+  booktitle = {Proc. CVPR 2006},
+  year = {2006}
+}
+
+@ARTICLE{GS02,
+  author = {Sharp, Gregory C. and Lee, Sang W. and Wehe, David K.},
+  title = {ICP Registration Using Invariant Features},
+  journal = {PAMI},
+  year = {2002},
+  volume = {24},
+  pages = {90--102},
+  number = {1},
+  address = {Washington, DC, USA},
+  publisher = {IEEE Computer Society}
+}
+
+@ARTICLE{PS07,
+  author = {Shilane, P. and Funkhouser, T.},
+  title = {Distinctive regions of 3D surfaces},
+  journal = {ACM Transactions on Graphics},
+  year = {2007},
+  volume = {26},
+  pages = {7},
+  number = {2},
+  file = {PS07.pdf:PS07.pdf:PDF},
+  publisher = {ACM}
+}
+
+@ARTICLE{LS05,
+  author = {Silva, L. and Bellon, O.R.P. and Boyer, K.L.},
+  title = {Precision range image registration using a robust surface interpenetration
+	measure and \hspace{-1pt}enhanced \hspace{-1pt}genetic\hspace{-1pt}
+	algorithms},
+  journal = {PAMI},
+  year = {2005},
+  volume = {27},
+  pages = {762--776},
+  number = {5},
+  publisher = {Published by the IEEE Computer Society}
+}
+
+@CONFERENCE{SS05,
+  author = {Sinha, S.N. and Pollefeys, M.},
+  title = {Multi-view reconstruction using photo-consistency and exact silhouette
+	constraints: A maximum-flow formulation},
+  booktitle = {Proc. ICCV},
+  year = {2005}
+}
+
+@INPROCEEDINGS{SC11,
+  author = {Sommer, Christoph and Straehle, Christoph and Kothe, Ullrich and
+	Hamprecht, Fred A},
+  title = {ilastik: Interactive learning and segmentation toolkit},
+  booktitle = {Proceedings of IEEE International Symposium on Biomedical Imaging:
+	From Nano to Macro},
+  year = {2011},
+  pages = {230--233}
+}
+
+@ARTICLE{HS08,
+  author = {Song, H. and Feng, H.Y.},
+  title = {A global clustering approach to point cloud simplification with a
+	specified data reduction ratio},
+  journal = {Computer-Aided Design},
+  year = {2008},
+  volume = {40},
+  pages = {281--292},
+  number = {3},
+  file = {HS08.pdf:HS08.pdf:PDF},
+  publisher = {Elsevier}
+}
+
+@ARTICLE{SR13,
+  author = {Song, Ran and Liu, Yonghuai and Martin, RalphR. and Rosin, PaulL.},
+  title = {3D point of interest detection via spectral irregularity diffusion},
+  journal = {The Visual Computer},
+  year = {2013},
+  volume = {29},
+  pages = {695-705},
+  number = {6-8},
+  doi = {10.1007/s00371-013-0806-4},
+  issn = {0178-2789},
+  keywords = {Mesh saliency; Points of interest; Laplacian; Eigendecomposition},
+  language = {English},
+  publisher = {Springer-Verlag},
+  url = {http://dx.doi.org/10.1007/s00371-013-0806-4}
+}
+
+@CONFERENCE{RS10,
+  author = {R. Song and Y. Liu and R. Martin and P. Rosin},
+  title = {MRF labeling for multi-view range image integration},
+  booktitle = {Proc. ACCV 2010},
+  year = {2010}
+}
+
+@CONFERENCE{RS11,
+  author = {Ran Song and Yonghuai Liu and Ralph R. Martin and Paul L. Rosin},
+  title = {Higher Order CRF for Surface Reconstruction from Multi-View Data
+	Sets},
+  booktitle = {Proc. 3DIM/3DPVT 2011}
+}
+
+@ARTICLE{MS08,
+  author = {M. Suliga and R. Deklerck and E. Nyssen},
+  title = {Markov random field-based clustering applied to the segmentation
+	of masses in digital mammograms},
+  journal = {Computerized Medical Imaging and Graphics},
+  year = {2008},
+  volume = {32},
+  pages = {502-512}
+}
+
+@ARTICLE{XS09,
+  author = {Sun, X. and Rosin, P.L. and Martin, R.R. and Langbein, F.C.},
+  title = {Noise analysis and synthesis for 3D laser depth scanners},
+  journal = {Graphical Models},
+  year = {2009},
+  volume = {71},
+  pages = {34--48},
+  number = {2},
+  publisher = {Elsevier}
+}
+
+@CONFERENCE{XS08,
+  author = {Sun, X. and Rosin, P.L. and Martin, R.R. and Langbein, F.C.},
+  title = {Noise in 3D laser range scanner data},
+  booktitle = {IEEE International Conference on Shape Modeling and Applications},
+  year = {2008},
+  publisher = {IEEE}
+}
+
+@ARTICLE{YS03,
+  author = {Y. Sun and J. Paik and A. Koschan and M. Abidi},
+  title = {Surface modeling using multi-view range and color images},
+  journal = {Int. J. Comput. Aided Eng.},
+  year = {2003},
+  volume = {10}
+}
+
+@ARTICLE{RS08,
+  author = {Szeliski, R. and Zabih, R. and Scharstein, D. and Veksler, O. and
+	Kolmogorov, V. and Agarwala, A. and Tappen, M. and Rother, C.},
+  title = {A comparative study of energy minimization methods for markov random
+	fields with smoothness-based priors},
+  journal = {PAMI},
+  year = {2008},
+  volume = {30},
+  pages = {1068--1080},
+  number = {6}
+}
+
+@INPROCEEDINGS{RS06,
+  author = {R. Szeliski and R. Zabih and D. Scharstein and O. Veksler and V.
+	Kolmogorov and A. Agarwala and M. Tappen and C. Rother},
+  title = {A comparative study of energy minimization methods for Markov Random
+	Fields},
+  booktitle = {Proc. ECCV},
+  year = {2006},
+  pages = {16-29}
+}
+
+@INPROCEEDINGS{SM08,
+  author = {Szummer, M. and Kohli, P. and Hoiem, D.},
+  title = {Learning CRFs using graph cuts},
+  booktitle = {Proc. ECCV},
+  year = {2008}
+}
+
+@INPROCEEDINGS{TH02,
+  author = {Takizawa, H. and Yamamoto, S. and Matsumoto, T. and Tateno, Y. and
+	Iinuma, T. and Matsumoto, M.},
+  title = {Recognition of lung nodules from X-ray CT images using 3D Markov
+	random field models},
+  booktitle = {Proc. 16th International Conference on Pattern Recognition },
+  year = {2002},
+  volume = {1}
+}
+
+@ARTICLE{TY95,
+  author = {Tao, Y and Morrow, CT and Heinemann, PH and Sommer, HJ},
+  title = {Fourier-based separation technique for shape grading of potatoes
+	using machine vision},
+  journal = {Transactions of the ASAE},
+  year = {1995},
+  volume = {38},
+  pages = {949--957},
+  number = {3},
+  publisher = {American Society of Agricultural Engineers}
+}
+
+@ARTICLE{TM10,
+  author = {Tarini, M. and Pietroni, N. and Cignoni, P. and Panozzo, D. and Puppo,
+	E.},
+  title = {Practical quad mesh simplification},
+  journal = {Computer Graphics Forum},
+  year = {2010},
+  volume = {29},
+  pages = {407--418},
+  number = {2},
+  file = {TM10.pdf:TM10.pdf:PDF},
+  organization = {Wiley Online Library}
+}
+
+@CONFERENCE{GT95,
+  author = {Taubin, G.},
+  title = {Estimating the tensor of curvature of a surface from a polyhedral
+	approximation},
+  booktitle = {Proc. ICCV 1995},
+  year = {1995}
+}
+
+@INPROCEEDINGS{TG95,
+  author = {Taubin, G.},
+  title = {A signal processing approach to fair surface design},
+  booktitle = {Proceedings of the 22nd annual conference on Computer graphics and
+	interactive techniques},
+  year = {1995},
+  pages = {351--358},
+  organization = {ACM}
+}
+
+@BOOK{CT89,
+  title = {Decision, Estimation, and Classification: An introduction to Pattern
+	Recognition and Related Topics},
+  publisher = {Wiley, New York},
+  year = {1989},
+  author = {C.W. Therrien}
+}
+
+@ARTICLE{DT11,
+  author = {Thomas, D. and Natarajan, V. and Bonneau, G.},
+  title = {Link conditions for simplifying meshes with embedded structures},
+  journal = {Visualization and Computer Graphics, IEEE Transactions on},
+  year = {2011},
+  number = {99},
+  file = {DT11.pdf:DT11.pdf:PDF},
+  publisher = {IEEE}
+}
+
+@ARTICLE{TA80,
+  author = {Treisman, A.M. and Gelade, G.},
+  title = {A feature-integration theory of attention},
+  journal = {Cognitive psychology},
+  year = {1980},
+  volume = {12},
+  pages = {97--136},
+  number = {1},
+  publisher = {Elsevier}
+}
+
+@INPROCEEDINGS{GT94,
+  author = {G. Turk and M. Levoy},
+  title = {Zippered polygon meshes from range images},
+  booktitle = {Proc. SIGGRAPH 1994},
+  year = {1994},
+  pages = {311-318}
+}
+
+@ARTICLE{JV04,
+  author = {Van, J. and Shi, P. and Zhang, D.},
+  title = {Mesh simplification with hierarchical shape analysis and iterative
+	edge contraction},
+  journal = {Visualization and Computer Graphics, IEEE Transactions on},
+  year = {2004},
+  volume = {10},
+  pages = {142--151},
+  number = {2},
+  file = {JV04.PDF:JV04.PDF:PDF},
+  publisher = {IEEE}
+}
+
+@CONFERENCE{GV05,
+  author = {Vogiatzis, G. and Torr, PHS and Cipolla, R.},
+  title = {Multi-view stereo via volumetric graph-cuts},
+  booktitle = {Proc. CVPR},
+  year = {2005}
+}
+
+@ARTICLE{VG08,
+  author = {Vogiatzis, G. and Torr, P.H.S. and Seitz, S.M. and Cipolla, R.},
+  title = {Reconstructing relief surfaces},
+  journal = {Image and Vision Computing},
+  year = {2008},
+  volume = {26},
+  pages = {397--404},
+  number = {3},
+  publisher = {Elsevier}
+}
+
+@ARTICLE{VU07,
+  author = {Von Luxburg, U.},
+  title = {A tutorial on spectral clustering},
+  journal = {Statistics and Computing},
+  year = {2007},
+  volume = {17},
+  pages = {395--416},
+  number = {4},
+  publisher = {Springer}
+}
+
+@ARTICLE{WD06,
+  author = {Walther, D. and Koch, C.},
+  title = {Modeling attention to salient proto-objects},
+  journal = {Neural Networks},
+  year = {2006},
+  volume = {19},
+  pages = {1395--1407},
+  number = {9},
+  publisher = {Elsevier}
+}
+
+@ARTICLE{XW04,
+  author = {X. Wang and H. Wang},
+  title = {Markov random field modelled range image segmentation},
+  journal = {Pattern Recognition Letters},
+  year = {2004}
+}
+
+@ARTICLE{WY07,
+  author = {Weiss, Y. and Yanover, C. and Meltzer, T.},
+  title = {MAP estimation, linear programming and belief propagation with convex
+	free energies},
+  journal = {Uncertainty in Artificial Intelligence},
+  year = {2007}
+}
+
+@ARTICLE{WJ94,
+  author = {Wolfe, J.M.},
+  title = {Guided search 2.0 A revised model of visual search},
+  journal = {Psychonomic bulletin \& review},
+  year = {1994},
+  volume = {1},
+  pages = {202--238},
+  number = {2},
+  publisher = {Springer}
+}
+
+@ARTICLE{OW09,
+  author = {Woodford, O. and Torr, P. and Reid, I. and Fitzgibbon, A.},
+  title = {Global stereo reconstruction under second-order smoothness priors},
+  journal = {PAMI},
+  year = {2009},
+  volume = {31},
+  pages = {2115--2128},
+  number = {12},
+  issn = {0162-8828},
+  publisher = {Published by the IEEE Computer Society}
+}
+
+@ARTICLE{WD13,
+  author = {Wu, Di and Sun, Da-Wen},
+  title = {Colour measurements by computer vision for food quality control--A
+	review},
+  journal = {Trends in Food Science \& Technology},
+  year = {2013},
+  volume = {29},
+  pages = {5--20},
+  number = {1},
+  publisher = {Elsevier}
+}
+
+@ARTICLE{WJ04,
+  author = {Wu, Jainhua and Kobbelt, Leif},
+  title = {Optimized Sub-Sampling of Point Sets for Surface Splatting},
+  journal = {Computer Graphics Forum},
+  year = {2004},
+  volume = {23},
+  pages = {643--652},
+  number = {3}
+}
+
+@INPROCEEDINGS{YS10,
+  author = {Yang, Shulin and Chen, Mei and Pomerleau, Dean and Sukthankar, Rahul},
+  title = {Food recognition using statistics of pairwise local features},
+  booktitle = {Proceedings of IEEE Conference on Computer Vision and Pattern Recognition},
+  year = {2010},
+  pages = {2249--2256}
+}
+
+@ARTICLE{JY02,
+  author = {Yedidia, J.S. and Freeman, W.T. and Weiss, Y.},
+  title = {Understanding belief propagation and its generalizations},
+  year = {2002},
+  number = {TR-2001-22},
+  institution = {MERL},
+  type = {Techincal Report}
+}
+
+@ARTICLE{YH01,
+  author = {Yee, H. and Pattanaik, S. and Greenberg, D.P.},
+  title = {Spatiotemporal sensitivity and visual attention for efficient rendering
+	of dynamic environments},
+  journal = {ACM Transactions on Graphics (TOG)},
+  year = {2001},
+  volume = {20},
+  pages = {39--65},
+  number = {1},
+  publisher = {ACM}
+}
+
+@ARTICLE{YY07,
+  author = {Y. Yemez and C.J. Wetherilt},
+  title = {A volumetric fusion techinque for surface reconstruction from silhouette
+	and range data},
+  journal = {Comput. Vision Image Understanding},
+  year = {2007},
+  volume = {105},
+  pages = {30-41}
+}
+
+@INPROCEEDINGS{YZ07,
+  author = {Yin, Z. and Collins, R.},
+  title = {Belief propagation in a 3D spatio-temporal MRF for moving object
+	detection},
+  booktitle = {Proc. CVPR 2007},
+  year = {2007},
+  pages = {1--8}
+}
+
+@ARTICLE{ZY10,
+  author = {Yu, Z. and Wong, H.S. and Peng, H. and Ma, Q.},
+  title = {ASM: An adaptive simplification method for 3D point-based models},
+  journal = {Computer-Aided Design},
+  year = {2010},
+  volume = {42},
+  pages = {598--612},
+  number = {7},
+  file = {ZY10.pdf:ZY10.pdf:PDF},
+  publisher = {Elsevier}
+}
+
+@CONFERENCE{ZC07,
+  author = {Zach, C. and Pock, T. and Bischof, H.},
+  title = {A Globally Optimal Algorithm for Robust TV-L1 Range Image Integration},
+  booktitle = {Proc. ICCV 2007},
+  year = {2007}
+}
+
+@ARTICLE{ZH10,
+  author = {Zhang, H. and Van Kaick, O. and Dyer, R.},
+  title = {Spectral mesh processing},
+  journal = {Computer graphics forum},
+  year = {2010},
+  volume = {29},
+  pages = {1865--1894},
+  number = {6},
+  booktitle = {Computer graphics forum},
+  organization = {Wiley Online Library}
+}
+
+@ARTICLE{ZJ12,
+  author = {Zhang, Juyong and Zheng, Jianmin and Wu, Chunlin and Cai, Jianfei},
+  title = {Variational mesh decomposition},
+  journal = {ACM Trans. Graph.},
+  year = {2012},
+  volume = {31},
+  pages = {21:1--21:14},
+  number = {3},
+  month = jun,
+  acmid = {2167079},
+  address = {New York, NY, USA},
+  articleno = {21},
+  doi = {10.1145/2167076.2167079},
+  issn = {0730-0301},
+  issue_date = {May 2012},
+  keywords = {Laplacian matrix, Mumford-Shah model, Shape analysis, mesh segmentation,
+	primal-dual method, spectral attribute},
+  numpages = {14},
+  publisher = {ACM},
+  url = {http://doi.acm.org/10.1145/2167076.2167079}
+}
+
+@ARTICLE{ZZ94,
+  author = {Zhang, Z.},
+  title = {Iterative point matching for registration of free-form curves},
+  journal = {Int. J. Comp. Vis},
+  year = {1994},
+  volume = {7},
+  pages = {119--152},
+  number = {3},
+  publisher = {Citeseer}
+}
+
+@ARTICLE{ZC06,
+  author = {Zheng, Chaoxin and Sun, Da-Wen and Zheng, Liyun},
+  title = {Recent developments and applications of image features for food quality
+	evaluation and inspection--a review},
+  journal = {Trends in Food Science \& Technology},
+  year = {2006},
+  volume = {17},
+  pages = {642--655},
+  number = {12},
+  publisher = {Elsevier}
+}
+
+@ARTICLE{HZ08,
+  author = {H. Zhou and Y. Liu},
+  title = {Accurate Integration of Multi-view Range Images Using K-Means Clustering},
+  journal = {Pattern Recognition},
+  year = {2008},
+  volume = {41},
+  pages = {152-175},
+  number = {1}
+}
+
+@INPROCEEDINGS{HZ05,
+  author = {H. Zhou and Y. Liu},
+  title = {ncremental point-based integration of registered multiple range images},
+  booktitle = {Proc. IECON},
+  year = {2005},
+  pages = {468-473}
+}
+
+@ARTICLE{HZ09,
+  author = {H. Zhou and Y. Liu and L. Li and B. Wei},
+  title = {A clustering approach to free form surface reconstruction from multi-view
+	range images},
+  journal = {Image and Vision Computing},
+  year = {2009},
+  volume = {27},
+  pages = {725-747},
+  number = {6}
+}
+
+@ARTICLE{ZL98,
+  author = {Zhou, Liyong and Chalana, Vikram and Kim, Yongmin},
+  title = {PC-based machine vision system for real-time computer-aided potato
+	inspection},
+  journal = {International journal of imaging systems and technology},
+  year = {1998},
+  volume = {9},
+  pages = {423--433},
+  number = {6},
+  publisher = {Wiley Online Library}
+}
+
+@OTHER{LG11,
+  howpublished = {Luigi Giaccari \url{http://www.advancedmcode.org/gl-tree-vs-kd-tree-and-bd-tree.html}
+	
+	}
+}
+
+@comment{jabref-meta: fileDirectory:C:\\Documents and Settings\\res\\D
+esktop\\reference;}
+
