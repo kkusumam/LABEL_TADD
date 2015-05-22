@@ -1,0 +1,143 @@
+\begin{thebibliography}{10}
+\providecommand{\url}[1]{{#1}}
+\providecommand{\urlprefix}{URL }
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{DOI~\discretionary{}{}{}#1}\else
+  \providecommand{\doi}{DOI~\discretionary{}{}{}\begingroup
+  \urlstyle{rm}\Url}\fi
+
+\bibitem{AR12}
+Achanta, R., Shaji, A., Smith, K., Lucchi, A., Fua, P., Susstrunk, S.: {SLIC}
+  superpixels compared to state-of-the-art superpixel methods.
+\newblock IEEE Transactions on Pattern Analysis and Machine Intelligence
+  \textbf{34}(11), 2274--2281 (2012)
+
+\bibitem{BM10}
+Barnes, M., Duckett, T., Cielniak, G., Stroud, G., Harper, G.: Visual detection
+  of blemishes in potatoes using minimalist boosted classifiers.
+\newblock Journal of Food Engineering \textbf{98}(3), 339--346 (2010)
+
+\bibitem{BM97}
+Barni, M., Cappellini, V., Mecocci, A.: Colour-based detection of defects on
+  chicken meat.
+\newblock Image and Vision Computing \textbf{15}(7), 549--556 (1997)
+
+\bibitem{BO07}
+Boiman, O., Irani, M.: Detecting irregularities in images and in video.
+\newblock International Journal of Computer Vision \textbf{74}(1), 17--31
+  (2007)
+
+\bibitem{BT04}
+Brosnan, T., Sun, D.W.: Improving quality inspection of food products by
+  computer vision----a review.
+\newblock Journal of Food Engineering \textbf{61}(1), 3--16 (2004)
+
+\bibitem{DE90}
+E.R., D.: Machine Vision.
+\newblock Academic Prss Limited, London (1990)
+
+\bibitem{SG96}
+Gunasekaran, S.: Computer vision technology for food quality assurance.
+\newblock Trends in Food Science \& Technology \textbf{7}(8), 245--256 (1996)
+
+\bibitem{GS96}
+Gunasekaran, S.: Computer vision technology for food quality assurance.
+\newblock Trends in Food Science \& Technology \textbf{7}(8), 245--256 (1996)
+
+\bibitem{JP13}
+Jackman, P., Sun, D.W.: Recent advances in image processing using image texture
+  features for food quality assessment.
+\newblock Trends in Food Science \& Technology \textbf{29}(1), 35--43 (2013)
+
+\bibitem{JT09}
+Joutou, T., Yanai, K.: A food image recognition system with multiple kernel
+  learning.
+\newblock In: Proceedings of International Conference on Image Processing, pp.
+  285--288 (2009)
+
+\bibitem{LK07}
+Lee, K.M., Li, Q., Daley, W.: Effects of classification methods on color-based
+  feature detection with food processing applications.
+\newblock IEEE Transactions on Automation Science and Engineering
+  \textbf{4}(1), 40--51 (2007)
+
+\bibitem{LD04}
+Lowe, D.: Distinctive image features from scale-invar-iant keypoints.
+\newblock International Journal of Computer Vision \textbf{60}(2), 91--110
+  (2004)
+
+\bibitem{BM96}
+Manjunath, B.S., Ma, W.: Texture features for browsing and retrieval of image
+  data.
+\newblock IEEE Transactions on Pattern Analysis and Machine Intelligence (PAMI
+  - Special issue on Digital Libraries) \textbf{18}(8), 837--42 (1996).
+\newblock
+  \urlprefix\url{http://vision.ece.ucsb.edu/publications/96PAMITrans.pdf}
+
+\bibitem{MY12}
+Matsuda, Y., Yanai, K.: Multiple-food recognition considering co-occurrence
+  employing manifold ranking.
+\newblock In: Proceedings of International Conference on Pattern Recognition,
+  pp. 2017--2020 (2012)
+
+\bibitem{OT02}
+Ojala, T., Pietikainen, M., Maenpaa, T.: Multiresolution gray-scale and
+  rotation invariant texture classification with local binary patterns.
+\newblock IEEE Transactions on Pattern Analysis and Machine Intelligence
+  \textbf{24}(7), 971--987 (2002)
+
+\bibitem{RY11}
+Ren, C.Y., Reid, I.: g{SLIC}: a real-time implementation of slic superpixel
+  segmentation.
+\newblock Tech. rep., University of Oxford, Department of Engineering (2011)
+
+\bibitem{RA10}
+Rocha, A., Hauagge, D.C., Wainer, J., Goldenstein, S.: Automatic fruit and
+  vegetable classification from images.
+\newblock Computers and electronics in agriculture \textbf{70}(1), 96--104
+  (2010)
+
+\bibitem{RR02}
+Russo, R., Shah, M., Lobo, N.: A computer vision system for monitoring
+  production of fast food.
+\newblock In: Proceedings of Asian Conference on Computer Vision (2002)
+
+\bibitem{SR99}
+Schapire, R.E., Singer, Y.: Improved boosting algorithms using confidence-rated
+  predictions.
+\newblock Machine learning \textbf{37}(3), 297--336 (1999)
+
+\bibitem{SC11}
+Sommer, C., Straehle, C., Kothe, U., Hamprecht, F.A.: ilastik: Interactive
+  learning and segmentation toolkit.
+\newblock In: Proceedings of IEEE International Symposium on Biomedical
+  Imaging: From Nano to Macro, pp. 230--233 (2011)
+
+\bibitem{TY95}
+Tao, Y., Morrow, C., Heinemann, P., Sommer, H.: Fourier-based separation
+  technique for shape grading of potatoes using machine vision.
+\newblock Transactions of the ASAE \textbf{38}(3), 949--957 (1995)
+
+\bibitem{WD13}
+Wu, D., Sun, D.W.: Colour measurements by computer vision for food quality
+  control--a review.
+\newblock Trends in Food Science \& Technology \textbf{29}(1), 5--20 (2013)
+
+\bibitem{YS10}
+Yang, S., Chen, M., Pomerleau, D., Sukthankar, R.: Food recognition using
+  statistics of pairwise local features.
+\newblock In: Proceedings of IEEE Conference on Computer Vision and Pattern
+  Recognition, pp. 2249--2256 (2010)
+
+\bibitem{ZC06}
+Zheng, C., Sun, D.W., Zheng, L.: Recent developments and applications of image
+  features for food quality evaluation and inspection--a review.
+\newblock Trends in Food Science \& Technology \textbf{17}(12), 642--655 (2006)
+
+\bibitem{ZL98}
+Zhou, L., Chalana, V., Kim, Y.: Pc-based machine vision system for real-time
+  computer-aided potato inspection.
+\newblock International journal of imaging systems and technology
+  \textbf{9}(6), 423--433 (1998)
+
+\end{thebibliography}
